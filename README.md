@@ -65,20 +65,5 @@ Analyzed three datasets—Books, Customers, and Orders—to extract key business
 | Digitized cohesive emulation | ₹46.71 |
 | Advanced dynamic complexity | ₹46.77 |
 | Triple-buffered multimedia access | ₹44.00 |
+the end
 
----
-
-### 💬 Summary (Hindi)
-
-इस प्रोजेक्ट में मैंने SQL और Excel का उपयोग करके तीन डेटा सेट्स का विश्लेषण किया—Books, Customers और Orders। मैंने विभिन्न queries और formulas के माध्यम से बिज़नेस इनसाइट्स निकालीं, जैसे कि सबसे महंगा किताब, सबसे ज़्यादा ऑर्डर किया गया किताब, और किस शहर के ग्राहक सबसे ज़्यादा खर्च करते हैं।
-
-यह रिपोर्ट मेरे डेटा विश्लेषण कौशल, लॉजिक एप्लिकेशन और प्रोफेशनल प्रेजेंटेशन को दर्शाती है।
-
----
-
-### 🔗 #Tags for LinkedIn
-`#SQL #Excel #PowerBI #DataAnalytics #PortfolioProject #LinkedInReady #BilingualReport #ProfessionalBranding #RahulKumar`
-
----
-
-Would you like me to help you turn this into a visual post or carousel for LinkedIn? I can guide you on layout, colors, or even help design a matching profile banner.
